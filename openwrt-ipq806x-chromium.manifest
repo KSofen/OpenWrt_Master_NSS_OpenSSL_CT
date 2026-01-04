@@ -4,7 +4,7 @@
 adblock - 4.2.3-3
 ath10k-board-qca988x - 20230804-1
 ath10k-firmware-qca988x-ct-full-htt - 2020-11-08-1
-base-files - 1563-r24261-9ef57da2a6
+base-files - 1565-r24228+50-5509043972
 block-mount - 2023-02-28-bfe882d5-1
 busybox - 1.36.1-1
 ca-bundle - 20241223-1
@@ -252,9 +252,9 @@ libncurses6 - 6.4-2
 libnftnl11 - 1.2.6-1
 libnghttp2-14 - 1.57.0-1
 libnl-tiny1 - 2023-07-27-bc92a280-1
-libopenssl-conf - 3.0.16-1
-libopenssl-legacy - 3.0.16-1
-libopenssl3 - 3.0.16-1
+libopenssl-conf - 3.0.18-1
+libopenssl-legacy - 3.0.18-1
+libopenssl3 - 3.0.18-1
 libpcap1 - 1.10.4-1
 libpopt0 - 1.19-1
 libpthread - 1.2.4-4
@@ -278,6 +278,7 @@ losetup - 2.39-2
 lua - 5.1.5-11
 lua-bit32 - 5.3.0-1
 luaposix - 35.1-1
+luci - git-25.222.75657-7ce34fe
 luci-app-adblock - git-25.222.75657-7ce34fe
 luci-app-commands - git-25.222.75657-7ce34fe
 luci-app-ddns - git-25.222.75657-7ce34fe
@@ -314,7 +315,7 @@ ntfs-3g - 2022.5.17-1-fuseint
 odhcp6c - 2023-05-12-bcd28363-20
 odhcpd-ipv6only - 2023-10-24-d8118f6e-1
 openssh-sftp-server - 9.8p1-1
-openssl-util - 3.0.16-1
+openssl-util - 3.0.18-1
 openvpn-easy-rsa - 3.0.8-4
 openvpn-openssl - 2.5.8-5
 openwrt-keyring - 2022-03-25-62471e69-2
